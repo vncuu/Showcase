@@ -12,4 +12,4 @@ Currently Building = Game journey
 
 Planning = Wooden Racing Sim
 - Creating the plan for the racing sim
-- Fixin and adding the needed logical and theoretical things
+- Fixing and adding the needed logical and theoretical things
